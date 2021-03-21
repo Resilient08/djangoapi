@@ -13,14 +13,11 @@ Users are able to add stocks to their portflio table for tracking current stock 
 # Delete Stock Page
 Users are able to delete stocks from their portfolio if they wish. 
 
-# Logout Page
-Once the user logs out there is a message thanking them for using the app and in the menu there is a link to return them to the Login Page.
 
-Task App System Tech Stack Selection:
+# djangoapi Tech Stack Selection:
+
 Version Control Sys: Github
-
-Frontend: HTML/Bootstrap,  IDE VS Code
-Business Logic: Typescript
+Frontend: HTML/Bootstrap, 
 WebServer Imp: Django
 Data Layer: Sqlite
 Web Server Cloud Dep: TBD (I have used Heroku)
